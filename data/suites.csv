@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Mar 15 14:54:32 UTC 2023","Wed Mar 15 14:54:48 UTC 2023","16616","chromium","8669k1gw8.spec.js","Payment Method deletes in QPilot (Existing)","","","Test case 8669k1gw8 @smoke @asACustomer",""
-"broken","Wed Mar 15 14:51:31 UTC 2023","Wed Mar 15 14:54:31 UTC 2023","180495","chromium","8669k1cpq.spec.js","Payment Method Saved to QPilot (Existing)","","","Test case 8669k1cpq @smoke @asACustomer",""
-"broken","Wed Mar 15 15:00:58 UTC 2023","Wed Mar 15 15:04:16 UTC 2023","197802","chromium","8669k1h33.spec.js","Payment Method Saved to QPilot (Existing)","","","Test case 8669k1cpq @smoke @asACustomer",""
+"passed","Wed Mar 15 15:47:26 UTC 2023","Wed Mar 15 15:47:58 UTC 2023","32206","chromium","8669k1h33.spec.js","Payment Method Saved to QPilot (Existing)","","","Test case 8669k1cpq @smoke @asACustomer",""
+"passed","Wed Mar 15 15:46:43 UTC 2023","Wed Mar 15 15:47:26 UTC 2023","42493","chromium","8669k1gw8.spec.js","Payment Method deletes in QPilot (Existing)","","","Test case 8669k1gw8 @smoke @asACustomer",""
+"passed","Wed Mar 15 15:44:51 UTC 2023","Wed Mar 15 15:46:43 UTC 2023","112604","chromium","8669k1cpq.spec.js","Payment Method Saved to QPilot (Existing)","","","Test case 8669k1cpq @smoke @asACustomer",""
