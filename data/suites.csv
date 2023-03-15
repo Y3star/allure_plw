@@ -1,2 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Wed Mar 15 16:28:50 UTC 2023","Wed Mar 15 16:32:52 UTC 2023","242288","chromium","8669k1cpq.spec.js","Payment Method Saved to QPilot (Existing)","","","Test case 8669k1cpq @smoke @asACustomer",""
+"skipped","Wed Mar 15 16:42:44 UTC 2023","Wed Mar 15 16:42:44 UTC 2023","1","chromium","8669k1cpq.spec.js","Payment Method Saved to QPilot (Existing)","","","Test case 8669k1cpq @smoke @asACustomer",""
+"passed","Wed Mar 15 16:42:44 UTC 2023","Wed Mar 15 16:43:08 UTC 2023","24122","chromium","8669k1gw8.spec.js","Payment Method deletes in QPilot (Existing)","","","Test case 8669k1gw8 @smoke @asACustomer",""
+"passed","Wed Mar 15 16:43:08 UTC 2023","Wed Mar 15 16:44:11 UTC 2023","62878","chromium","8669k1h33.spec.js","Payment Method Saved to QPilot (Existing)","","","Test case 8669k1cpq @smoke @asACustomer",""
