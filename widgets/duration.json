@@ -1,1 +1,1 @@
-[]
+[{"uid":"344ebd10cb1e2f3d","name":"Test case 8669k1cpq @smoke @asACustomer","time":{"start":1678889674518,"stop":1678889675051,"duration":533},"status":"failed","severity":"normal"},{"uid":"861a70351b74a23e","name":"Test case 8669k1gw8 @smoke @asACustomer","time":{"start":1678889677824,"stop":1678889678395,"duration":571},"status":"failed","severity":"normal"},{"uid":"d7d5ef2d47ce1e9e","name":"Test case 8669k1cpq @smoke @asACustomer","time":{"start":1678889681111,"stop":1678889681691,"duration":580},"status":"failed","severity":"normal"}]
